@@ -19,4 +19,4 @@ jobs:
     - name: StringLibrary Build the Docker image and run .NET App
       run: docker build ./ClassLibraryProjects/StringLibrary
     - name: Test a .NET class library
-      run: dotnet test ./ClassLibraryProjects/StringLibrary/StringLibraryTest
+      run: docker build ./ClassLibraryProjects/StringLibrary/StringLibraryTest
