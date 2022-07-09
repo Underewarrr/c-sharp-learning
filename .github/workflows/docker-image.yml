@@ -1,4 +1,4 @@
-name: Docker and .NET
+name: HelloWorld Docker and .NET
 
 on:
   push:
