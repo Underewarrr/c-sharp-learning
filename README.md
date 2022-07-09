@@ -11,6 +11,8 @@ Rodando ```docker build .``` no diretório onde se encontra o Dockerfile
 ### Rodando com DotNet
 Entrando no namespace do projeto por exemplo na pasta HelloWorld e executando
 ```dotnet run```
+### Rodando Testes Unitarios
+```dotnet test```
 ### Requisitos
 - [MVS C# EXTENSION](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp)
 - [.NET_SDK_6](https://dotnet.microsoft.com/en-us/download/dotnet/6.0)
