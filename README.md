@@ -1,5 +1,5 @@
 # C-Sharp-Learning
-[![Docker and .NET](https://github.com/Underewarrr/c-sharp-learning/actions/workflows/docker-image.yml/badge.svg?branch=main)](https://github.com/Underewarrr/c-sharp-learning/actions/workflows/docker-image.yml)
+[![Docker and .NET](https://github.com/Underewarrr/c-sharp-learning/actions/workflows/docker-image.yml/badge.svg)](https://github.com/Underewarrr/c-sharp-learning/actions/workflows/docker-image.yml)
 
 Olá eu sou [Rafhael Oliveira](https://github.com/Underewarrr/), neste repo vou aprender e aprofundar meus conhecimentos com a linguagem C-Sharp utilizando o framework .Net(6)!
 
