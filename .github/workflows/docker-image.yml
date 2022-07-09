@@ -15,4 +15,4 @@ jobs:
     steps:
     - uses: actions/checkout@v3
     - name: Build the Docker image and run .NET App
-      run: docker build /home/runner/work/c-sharp-learning/c-sharp-learning/HelloWorld/ --file Dockerfile
+      run: docker build ./HelloWorld/
