@@ -19,9 +19,10 @@ Entrando no namespace do projeto por exemplo na pasta HelloWorld e executando
 - [Docker Setup 1.0](https://docs.microsoft.com/en-us/dotnet/core/docker/build-container?tabs=linux)
 - [Docker Github Action](https://docs.docker.com/ci-cd/github-actions/)
 - [Create a .NET class library](https://docs.microsoft.com/en-us/dotnet/core/tutorials/library-with-visual-studio-code?pivots=dotnet-6-0)
+- [Test a .NET class library](https://docs.microsoft.com/en-us/dotnet/core/tutorials/testing-library-with-visual-studio-code?pivots=dotnet-6-0)
 ### PR dos estudos:
 - [HelloWorld](https://github.com/Underewarrr/c-sharp-learning/pull/1)
 - [Docker Setup](https://github.com/Underewarrr/c-sharp-learning/pull/2), [2](https://github.com/Underewarrr/c-sharp-learning/pull/3)
 - [Docker Github Action](https://github.com/Underewarrr/c-sharp-learning/blob/main/.github/workflows/docker-image.yml) 
 - [Create a .NET class library](https://github.com/Underewarrr/c-sharp-learning/pull/4)
-
+- [Test a .NET class library](https://github.com/Underewarrr/c-sharp-learning/pull/5)
