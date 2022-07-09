@@ -19,7 +19,8 @@ Caminho dos estudos:  <img width="40" height="40" src="https://user-images.githu
 
 - [HelloWorld](https://docs.microsoft.com/en-us/dotnet/core/tutorials/with-visual-studio-code?pivots=dotnet-6-0)
 
-- [Docker Setup](https://docs.microsoft.com/en-us/dotnet/core/docker/build-container?tabs=linux)
+- [Docker Setup 1.0](https://docs.microsoft.com/en-us/dotnet/core/docker/build-container?tabs=linux)
+- [Docker Setup 1.1](https://docs.docker.com/compose/gettingstarted/)
 
 
 
