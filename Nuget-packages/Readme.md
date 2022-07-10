@@ -1,3 +1,4 @@
+manage-package-cli
 Criando um projeto com o dotnet
     
     dotnet new console

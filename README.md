@@ -23,6 +23,7 @@ Entrando no namespace do projeto por exemplo na pasta HelloWorld e executando
 - [C# .NET Create a .NET class library](https://docs.microsoft.com/en-us/dotnet/core/tutorials/library-with-visual-studio-code?pivots=dotnet-6-0)
 - [C# Test a .NET class library](https://docs.microsoft.com/en-us/dotnet/core/tutorials/testing-library-with-visual-studio-code?pivots=dotnet-6-0)
 - [C# .NET Install and use a package using the dotnet CLI](https://docs.microsoft.com/en-us/nuget/quickstart/install-and-use-a-package-using-the-dotnet-cli)
+- [C# Install and manage packages using the dotnet CLI](https://docs.microsoft.com/en-us/nuget/consume-packages/install-use-packages-dotnet-cli)
 ### PR dos estudos:
 - [HelloWorld] (https://github.com/Underewarrr/c-sharp-learning/pull/1)
 - [Docker Setup] (https://github.com/Underewarrr/c-sharp-learning/pull/2), (https://github.com/Underewarrr/c-sharp-learning/pull/3)
@@ -30,3 +31,4 @@ Entrando no namespace do projeto por exemplo na pasta HelloWorld e executando
 - [Create a .NET class library] (https://github.com/Underewarrr/c-sharp-learning/pull/4)
 - [C# Test a .NET class library] (https://github.com/Underewarrr/c-sharp-learning/pull/5)
 - [C# .NET Install and use a package using the dotnet CLI] (https://github.com/Underewarrr/c-sharp-learning/pull/6)
+- [C# Install and manage packages using the dotnet CLI] (https://github.com/Underewarrr/c-sharp-learning/pull/7)
