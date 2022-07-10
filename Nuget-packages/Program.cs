@@ -1,4 +1,6 @@
-﻿namespace NugetPackage
+﻿using Newtonsoft.Json;
+
+namespace NugetPackage
 
 {
     public class Account
