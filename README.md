@@ -25,7 +25,7 @@ Entrando no namespace do projeto por exemplo na pasta HelloWorld e executando
 - [C# Install and manage packages using the dotnet CLI](https://docs.microsoft.com/en-us/nuget/consume-packages/install-use-packages-dotnet-cli)
 - [C# Create a NuGet package using the dotnet CLI](https://docs.microsoft.com/en-us/nuget/create-packages/creating-a-package-dotnet-cli)
 - [C# Type system](https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/types/) 
-
+- [C# Implicitly typed local variables](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/implicitly-typed-local-variables)
 ### PR dos estudos:
 - [HelloWorld] (https://github.com/Underewarrr/c-sharp-learning/pull/1)
 - [Docker Setup] (https://github.com/Underewarrr/c-sharp-learning/pull/2), (https://github.com/Underewarrr/c-sharp-learning/pull/3)
@@ -37,4 +37,5 @@ Entrando no namespace do projeto por exemplo na pasta HelloWorld e executando
 - [C# Create a NuGet package using the dotnet CLI] (https://github.com/Underewarrr/c-sharp-learning/pull/8)
 - [C# .NET] Learning console fundamentals (https://github.com/Underewarrr/c-sharp-learning/pull/9)
 - [C# Type system] (https://github.com/Underewarrr/c-sharp-learning/pull/10) 
+- [C# Implicitly typed local variables] (https://github.com/Underewarrr/c-sharp-learning/pull/11)
 
