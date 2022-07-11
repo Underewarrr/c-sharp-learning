@@ -34,3 +34,4 @@ Entrando no namespace do projeto por exemplo na pasta HelloWorld e executando
 - [C# .NET Install and use a package using the dotnet CLI] (https://github.com/Underewarrr/c-sharp-learning/pull/6)
 - [C# Install and manage packages using the dotnet CLI] (https://github.com/Underewarrr/c-sharp-learning/pull/7)
 - [C# Create a NuGet package using the dotnet CLI] (https://github.com/Underewarrr/c-sharp-learning/pull/8)
+- [C# .NET] Learning console fundamentals (https://github.com/Underewarrr/c-sharp-learning/pull/9)
